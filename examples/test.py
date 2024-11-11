@@ -6,11 +6,7 @@ from gymnasium.envs.registration import register
 from stable_baselines3 import PPO
 from stable_baselines3.common.vec_env import DummyVecEnv, VecNormalize
 
-register(
-    id="BlueRov-v0",
-    entry_point="bluerov_env:BlueRov",
-    max_episode_steps=100,
-)
+import bluerov2_gym  # This import will automatically register the environment
 
 
 def test_agent():
