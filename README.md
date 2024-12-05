@@ -164,12 +164,13 @@ The environment can be configured through various parameters:
 
 If you use this environment in your research, please cite:
 ```bibtex
-@software{bluerov2_gym,
-  author = {Gokul Puthumanaillam},
-  title = {BlueROV2 Gymnasium Environment},
-  year = {2024},
-  publisher = {GitHub},
-  url = {https://github.com/gokulp01/bluerov2_gym}
+@article{puthumanaillam2024tabfieldsmaximumentropyframework,
+title={TAB-Fields: A Maximum Entropy Framework for Mission-Aware Adversarial Planning},
+author={Gokul Puthumanaillam and Jae Hyuk Song and Nurzhan Yesmagambet and Shinkyu Park and Melkior Ornik},
+year={2024},
+eprint={2412.02570},
+archivePrefix={arXiv},
+url={https://arxiv.org/abs/2412.02570} } 
 }
 ```
 
