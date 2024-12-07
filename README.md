@@ -2,6 +2,8 @@
 
 A Gymnasium environment for simulating and training reinforcement learning agents on the BlueROV2 underwater vehicle. This environment provides a realistic simulation of the BlueROV2's dynamics and supports various control tasks.
 
+<img width="1033" alt="image" src="https://github.com/user-attachments/assets/4052cdb7-5376-4b18-be28-64025c6c232a">
+
 ## 🌊 Features
 
 - **Realistic Physics**: Implements validated hydrodynamic model of the BlueROV2
