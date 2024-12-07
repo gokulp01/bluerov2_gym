@@ -12,6 +12,7 @@ A Gymnasium environment for simulating and training reinforcement learning agent
 - **Disturbance Modeling**: Includes environmental disturbances for realistic underwater conditions
 - **Stable-Baselines3 Compatible**: Ready to use with popular RL frameworks
 - **Customizable Environment**: Easy to modify for different underwater tasks
+- (Future release: spawn multiple AUVs)
 
 ## 🛠️ Installation
 
