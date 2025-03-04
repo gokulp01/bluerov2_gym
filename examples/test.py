@@ -147,7 +147,7 @@ def manual_control():
             action[2] = -1.0  # Down
         print(f"Action: {action}")
         obs, reward, terminated, truncated, info = env.step(action)
-        env.step_sim()
+        env.unwrapped.step_sim()
 
         print(
             f"Position: x={obs['x'][0]:.2f}, y={obs['y'][0]:.2f}, z={obs['z'][0]:.2f}"
