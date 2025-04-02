@@ -1,7 +1,7 @@
 # Vessel dynamics
 
 ## Experiment credits
+- Nurzhan Yesmagambet (NURZHAN.YESMAGAMBET@KAUST.EDU.SA)
+- Shinkyu Park (SHINKYU.PARK@KAUST.EDU.SA)
 
-Nurzhan Yesmagambet (NURZHAN.YESMAGAMBET@KAUST.EDU.SA)
-Shinkyu Park (SHINKYU.PARK@KAUST.EDU.SA)
-King Abdullah University of Science and Technology, Saudi Arabia
+Affiliation: King Abdullah University of Science and Technology, Saudi Arabia
